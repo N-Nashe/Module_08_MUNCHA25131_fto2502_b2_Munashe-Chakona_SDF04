@@ -1,0 +1,21 @@
+footer{
+    background-color: #649f90;
+}
+button{
+    background-color: rgb(217, 88, 36);
+    padding: 10px;
+    border-radius: 10px;
+    height: 30px
+    width: 200px;
+    top: 30px;
+    
+}
+
+input{
+    padding: 10px;
+    border-radius: 10px;
+    height: 30px
+    width: 200px;
+    top: 30px;
+    
+}
