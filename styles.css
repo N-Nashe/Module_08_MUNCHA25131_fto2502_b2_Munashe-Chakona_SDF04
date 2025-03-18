@@ -2,10 +2,10 @@ footer{
     background-color: #649f90;
 }
 button{
-    background-color: rgb(217, 88, 36);
+    background-color: #d95824;
     padding: 10px;
-    border-radius: 10px;
-    height: 30px
+    border-radius: 9px;
+    height: 30px;
     width: 200px;
     top: 30px;
     
@@ -14,8 +14,24 @@ button{
 input{
     padding: 10px;
     border-radius: 10px;
-    height: 30px
+    height: 30px;
     width: 200px;
     top: 30px;
     
 }
+
+img{ 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+hr{
+    color: #d95824;
+}
+    
+    
+
+
