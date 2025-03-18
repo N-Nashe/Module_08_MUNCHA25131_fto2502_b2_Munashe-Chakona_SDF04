@@ -5,8 +5,8 @@ button{
     background-color: #d95824;
     padding: 10px;
     border-radius: 9px;
-    height: 30px;
-    width: 200px;
+    height: 35px;
+    width: 100px;
     top: 30px;
     
 }
@@ -14,8 +14,8 @@ button{
 input{
     padding: 10px;
     border-radius: 10px;
-    height: 30px;
-    width: 200px;
+    height: 13px;
+    width: 150px;
     top: 30px;
     
 }
@@ -29,7 +29,8 @@ img{
 }
 
 hr{
-    color: #d95824;
+    border: solid 1px #d95824;
+    
 }
     
     
