@@ -1,22 +1,32 @@
 footer{
     background-color: #649f90;
+    font-family: Arial, Georgia, 'Times New Roman', Times, sans-serif;
+    
+    
+
+
 }
-button{
+#subbutton{
     background-color: #d95824;
+    position: relative;
     padding: 10px;
     border-radius: 9px;
     height: 35px;
     width: 100px;
-    top: 30px;
+    top: 190px;
+    left: 150px;
     
 }
 
 input{
     padding: 10px;
+    position: relative;
     border-radius: 10px;
-    height: 13px;
+    height: 12px;
     width: 150px;
-    top: 30px;
+    top: 189px;
+    left: 145px;
+
     
 }
 
@@ -30,8 +40,51 @@ img{
 
 hr{
     border: solid 1px #d95824;
+    width: 80%;
     
 }
+
+.Donerkebab{
+    Top: 83px;
+    margin-left: 800px;
+    position:relative;
+    color: rgb(81, 81, 81);
+}
+
+.Doner{
+    top: 79px;
+    margin-left: 760px;
+    position:relative;
+    color: rgb(81, 81, 81);
+    list-style: none;
+}
+
+.METALFINGERSDOOM{
+    Top: -35px;
+    margin-left: 980px;
+    position:relative;
+    color: rgb(81, 81, 81);
+}
+
+.KingGeedorah{
+    Top: -38px;
+    margin-left: 958px;
+    position:relative;
+    color: rgb(81, 81, 81);
+    list-style: none;
+}
+
+.MUT{
+    position: relative;
+    top: 180px;
+    left: 150px;
+    color: rgb(81, 81, 81);
+}
+
+
+
+
+
     
     
 
