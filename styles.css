@@ -3,6 +3,7 @@ footer{
     font-family: Arial, Georgia, 'Times New Roman', Times, sans-serif;
     
     
+    
 
 }
 #subbutton{
@@ -37,7 +38,7 @@ img{
     margin-left: 20px;
 }
 
-hr{
+.hr{
     border: solid 1px #d95824;
     width: 80%;
     
@@ -89,21 +90,66 @@ hr{
     
 }
 
-@media (max-width:1440px){
 
-
-}
-
-@media (max-width:1024px){
-
-
-
-}
-
-@media (max-width:600px){
-
+@media (max-width:375px){
+    .MUT{
+    left: 5px;
+    top: 40px;
+    font-size: 1,7rem;
+    }
+    input{
+        left:85px;
+        top: 30px;
+    }
     
+    #subbutton{
+        left:-95px;
+        top:80px;
+        width: 180px;
+    }
+    
+    .Donerkebab{
+        left:-720px;
+        font-size: 1rem;
+        top:68px;
+
+    }
+    .Doner{
+        left: -720px;
+        font-size: 0.8rem;
+        top: 50px;
+        white-space: nowrap;
+
+    }
+
+    .METALFINGERSDOOM{
+        left:-901px;
+        font-size: 1rem;
+        top:35px;
+    }
+    
+    .KingGeedorah{
+        left: -918px;
+        font-size: 0.8rem;
+        top: 20px;
+    
+    }
+
+    .hr{
+        margin-top:60px !important;
+    }
+
+    .codespace-img{
+        left: 20px;
+    }
+    
+    
+
 }
+
+
+
+
 
 
 
