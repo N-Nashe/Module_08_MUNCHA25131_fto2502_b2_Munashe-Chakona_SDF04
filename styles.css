@@ -143,9 +143,72 @@ img{
         left: 20px;
     }
     
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:768px){
+.MUT{
+    left: 53px;
+    top: 40px;
+    font-size: 1,7rem;
+    }
+    input{
+        left:50px;
+        top: 30px;
+    }
+    
+    #subbutton{
+        left:72px;
+        top:33px;
+        width: 150px;
+    }
+    
+    .Donerkebab{
+        left:-750px;
+        font-size: 1rem;
+        top:40px;
+        white-space: nowrap;
+    }
+    
+    .Doner{
+        left: -750px;
+        font-size: 0.8rem;
+        top: 30px;
+        white-space: nowrap;
+
+    }
+
+    .METALFINGERSDOOM{
+        left:-600px;
+        font-size: 1rem;
+        top:-73px;
+    }
+    
+    .KingGeedorah{
+        left: -617px;
+        font-size: 0.8rem;
+        top: -86px;
+    
+    }
+
+    .hr{
+        margin-top:-60px !important;
+        margin-right: 100px;
+    }
+
+    .codespace-img{
+        left: 30px;
+    }
+}
     
 
-}
 
 
 
