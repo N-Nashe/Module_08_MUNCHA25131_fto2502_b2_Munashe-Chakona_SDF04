@@ -4,7 +4,6 @@ footer{
     
     
 
-
 }
 #subbutton{
     background-color: #d95824;
@@ -81,6 +80,30 @@ hr{
     color: rgb(81, 81, 81);
 }
 
+.codespace-img{
+    position: relative;
+    width: 150px;
+    height: 100px;
+    left: 125px;
+    top: -40px;
+    
+}
+
+@media (max-width:1440px){
+
+
+}
+
+@media (max-width:1024px){
+
+
+
+}
+
+@media (max-width:600px){
+
+    
+}
 
 
 
